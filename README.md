@@ -1,6 +1,6 @@
 # pruebas-de-commits
 
-yo quiero continuar en mi documento cambiando cosas del master
+yo quiero continuar en mi documento cambiando cosas del master aqui le meto otras cosillas
 Aquí haré mi primer commit
 imagina <h1> hola amigos C: </h1>
 
@@ -20,3 +20,4 @@ quiero hacer otro archivo en master
 
 estoy haciendo otro branch
 quiero hacer otro archivo en master
+agrego otra cosas por acá
